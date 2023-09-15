@@ -1,0 +1,144 @@
+Auction,Version,Publication_Date,Project_Name,Developer,Technology_Type,Capacity_MW,Strike_Price_GBP_Per_MWh,Delivery_Year,Homes_Powered,Region
+AR1,Final,2015-02-26,BHEG Walsall,BH EnergyGap (Walsall) Ltd,Advanced Conversion Technology (with or without CHP),26.00,114.390,2018,,
+AR1,Final,2015-02-26,Energy Works (Hull),Energy Works (Hull) Limited,Advanced Conversion Technology (with or without CHP),25.00,119.890,2017,,
+AR1,Final,2015-02-26,Enviroparks Hirwaun Generation Site,Enviroparks Operations Ltd,Advanced Conversion Technology (with or without CHP),11.00,119.890,2017,,
+AR1,Final,2015-02-26,Wren Power and Pulp,Gent Fairhead & Co. Ltd,Energy from Waste with CHP,49.75,80.000,2018,,
+AR1,Final,2015-02-26,K3 CHP Facility,K3CHP Ltd,Energy from Waste with CHP,45.00,80.000,2018,,
+AR1,Final,2015-02-26,EA 1,Scottishpower Renewables (UK) Limited,Offshore Wind,714.00,119.890,2017,,
+AR1,Final,2015-02-26,Neart na Gaoithe,Neart na Gaoithe Offshore Wind Limited,Offshore Wind,448.00,114.390,2018,,
+AR1,Final,2015-02-26,Dorenell Wind Farm,Dorenell Limited,Onshore Wind (>5 MW),177.00,82.500,2018,,
+AR1,Final,2015-02-26,Kype Muir Wind Farm,Banks Renewables (Kype Muir Wind Farm) Limited,Onshore Wind (>5 MW),104.00,82.500,2018,,
+AR1,Final,2015-02-26,Clocaenog Forest Wind Farm,RWE Innogy UK Limited,Onshore Wind (>5 MW),96.00,82.500,2018,,
+AR1,Final,2015-02-26,Middle Muir Wind Farm,Banks Renewables (Middle Muir Wind Farm) Limited,Onshore Wind (>5 MW),60.00,82.500,2018,,
+AR1,Final,2015-02-26,Brenig Wind Farm - Brenig Wind,Brenig Wind Limited,Onshore Wind (>5 MW),45.00,79.230,2016,,
+AR1,Final,2015-02-26,Mynydd Y Gwair Wind Farm,RWE Innogy UK Limited,Onshore Wind (>5 MW),40.00,79.990,2017,,
+AR1,Final,2015-02-26,Nanclach Wind Farm,Nanclach Limited,Onshore Wind (>5 MW),39.10,82.500,2018,,
+AR1,Final,2015-02-26,Solwaybank Wind Farm,Solwaybank Energy Limited,Onshore Wind (>5 MW),37.50,82.500,2018,,
+AR1,Final,2015-02-26,Sneddon Law Community Wind Farm,Sneddon Law Community Wind Company Limited,Onshore Wind (>5 MW),37.50,79.990,2017,,
+AR1,Final,2015-02-26,Coire Na Cloiche Windfarm,Coire Na Cloiche Windfarm LLP,Onshore Wind (>5 MW),30.00,82.500,2018,,
+AR1,Final,2015-02-26,Bad a Cheo Wind Farm,RWE Innogy UK Limited,Onshore Wind (>5 MW),29.90,82.500,2018,,
+AR1,Final,2015-02-26,Tralorg Wind Farm,PNE WIND UK Ltd,Onshore Wind (>5 MW),20.00,82.500,2018,,
+AR1,Final,2015-02-26,Moor House Wind Farm,Banks Renewables (Moor House Wind Farm) Limited,Onshore Wind (>5 MW),16.40,82.500,2018,,
+AR1,Final,2015-02-26,Achlachan Wind Farm,Achlachan Wind Farm LLP,Onshore Wind (>5 MW),10.00,82.500,2018,,
+AR1,Final,2015-02-26,Common Barn Wind Farm,Common Barn Wind Farm Ltd,Onshore Wind (>5 MW),6.15,82.500,2018,,
+AR1,Final,2015-02-26,Wick Farm Solar Park,Hadstone Energy Limited,Solar Photo-Voltaic (>5MW),19.10,50.000,2015,,
+AR1,Final,2015-02-26,Charity Farm,Lightsource SPV136 Limited,Solar Photo-Voltaic (>5MW),14.67,79.230,2016,,
+AR1,Final,2015-02-26,Royston Solar Farm,ROYSTON SOLAR FARM LIMITED,Solar Photo-Voltaic (>5MW),13.78,50.000,2015,,
+AR1,Final,2015-02-26,Netley Landfill Solar,REG Netley Solar Ltd,Solar Photo-Voltaic (>5MW),12.00,79.230,2016,,
+AR1,Final,2015-02-26,Triangle Farm Solar Park,Cambridgeshire County Council,Solar Photo-Voltaic (>5MW),12.00,79.230,2016,,
+AR2,Final,2017-09-11,Drakelow Renewable Energy Centre,Future Earth Energy (Drakelow) Limited,Advanced Conversion Technology (with or without CHP),15.00,74.750,2021,27190,England
+AR2,Final,2017-09-11,Station Yard CFD 1,DC2 Engineering Ltd,Advanced Conversion Technology (with or without CHP),0.05,74.750,2021,90,Wales
+AR2,Final,2017-09-11,Northacre Renewable Energy Centre,Northacre Renewable Energy Limited,Advanced Conversion Technology (with or without CHP),25.50,74.750,2021,46220,England
+AR2,Final,2017-09-11,IPIF Fort Industrial REC,Legal and General Prop Partners (Ind Fund) Ltd,Advanced Conversion Technology (with or without CHP),10.20,74.750,2021,18490,England
+AR2,Final,2017-09-11,Blackbridge TGS 1 Limited,Think Greenergy TOPCO Limited,Advanced Conversion Technology (with or without CHP),5.56,74.750,2021,10080,England
+AR2,Final,2017-09-11,Redruth EfW,Redruth EFW Limited,Advanced Conversion Technology (with or without CHP),8.00,40.000,2022,14500,England
+AR2,Final,2017-09-11,Grangemouth Renewable Energy Plant,Grangemouth Renewable Energy Limited,Dedicated Biomass with CHP,85.00,74.750,2021,148880,Scotland
+AR2,Final,2017-09-11,Rebellion,Rebellion Biomass LLP,Dedicated Biomass with CHP,0.64,74.750,2021,1120,England
+AR2,Final,2017-09-11,Triton Knoll Offshore Wind Farm,Triton Knoll Offshore Wind Farm Limited,Offshore Wind,860.00,74.750,2021,893690,England
+AR2,Final,2017-09-11,Hornsea Project 2,Breesea Limited,Offshore Wind,1386.00,57.500,2022,1440300,England
+AR2,Final,2017-09-11,Moray Offshore Windfarm (East),Moray Offshore Windfarm (East) Limited,Offshore Wind,950.00,57.500,2022,987220,Scotland
+AR3,Final,2019-09-20,Bulwell Energy Limited,Bulwell Energy Limited,Advanced Conversion Technology (with or without CHP),27.50,39.650,2023,50980,England
+AR3,Final,2019-09-20,Small Heath Bio Power Limited,Small Heath Bio Power Limited,Advanced Conversion Technology (with or without CHP),6.10,41.611,2024,11310,England
+AR3,Final,2019-09-20,Costa Head Wind Farm,Costa Head Wind Farm Limited,Remote Island Wind (>5MW),16.32,39.650,2023,15750,Scotland
+AR3,Final,2019-09-20,Druim Leathann Windfarm Limited,Druim Leathann Windfarm Limited,Remote Island Wind (>5MW),49.50,41.611,2024,47760,Scotland
+AR3,Final,2019-09-20,Hesta Head Wind Farm,Hesta Head Wind Farm Limited,Remote Island Wind (>5MW),20.40,39.650,2023,19680,Scotland
+AR3,Final,2019-09-20,Muaitheabhal Wind Farm,Uisenis Power Limited,Remote Island Wind (>5MW),189.00,39.650,2023,182340,Scotland
+AR3,Final,2019-09-20,Doggerbank Creyke Beck A P1,DoggerbankOffshoreWindFarmProject1ProjcoLimited,Offshore Wind,1200.00,39.650,2023,1505330,England
+AR3,Final,2019-09-20,Doggerbank Creyke Beck B P1,DoggerbankOffshoreWindFarmProject2ProjcoLimited,Offshore Wind,1200.00,41.611,2024,1505330,England
+AR3,Final,2019-09-20,Doggerbank Teeside A P1,DoggerbankOffshoreWindFarmProject3ProjcoLimited,Offshore Wind,1200.00,41.611,2024,1505330,England
+AR3,Final,2019-09-20,Forthwind,Forthwind Limited,Offshore Wind,12.00,39.650,2023,15050,Scotland
+AR3,Final,2019-09-20,Seagreen Phase 1,Seagreen Wind Energy Limited,Offshore Wind,454.00,41.611,2024,569520,Scotland
+AR3,Final,2019-09-20,Sofia Offshore Wind Farm Phase 1,Sofia Offshore Wind Farm Limited,Offshore Wind,1400.00,39.650,2023,1756220,England
+AR4,Final,2022-07-07,Redcar Holdings Limited,REDCAR HOLDINGS LIMITED,Energy from Waste (with CHP),30.00,45.990,2024,,England
+AR4,Final,2022-07-07,Cumberhead West,CUMBERHEAD WEST WIND FARM LTD.,Onshore Wind (>5MW),119.70,42.470,2024,,Scotland
+AR4,Final,2022-07-07,Arecleoch Wind Farm Extension,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Onshore Wind (>5MW),74.10,42.470,2024,,Scotland
+AR4,Final,2022-07-07,Kilgallioch windfarm extension,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Onshore Wind (>5MW),51.30,42.470,2024,,Scotland
+AR4,Final,2022-07-07,Stranoch Wind Farm,STRANOCH WINDFARM LIMITED,Onshore Wind (>5MW),99.96,42.470,2024,,Scotland
+AR4,Final,2022-07-07,North Kyle Energy Project,NORTH KYLE WIND FARM LIMITED,Onshore Wind (>5MW),212.00,42.470,2024,,Scotland
+AR4,Final,2022-07-07,Hagshaw Hill Repowering,HAGSHAW HILL REPOWERING LTD,Onshore Wind (>5MW),79.80,42.470,2024,,Scotland
+AR4,Final,2022-07-07,Broken Cross Wind Farm,BROKEN CROSS WIND FARM LIMITED,Onshore Wind (>5MW),48.00,42.470,2024,,Scotland
+AR4,Final,2022-07-07,Douglas West Extension,DOUGLAS WEST EXTENSION LTD,Onshore Wind (>5MW),71.50,42.470,2024,,Scotland
+AR4,Final,2022-07-07,High Constellation Wind Farm,HIGH CONSTELLATION WINDFARM LIMITED,Onshore Wind (>5MW),50.00,42.470,2024,,Scotland
+AR4,Final,2022-07-07,Chirmorie Wind Farm,CHIRMORIE WIND FARM LIMITED,Onshore Wind (>5MW),81.60,42.470,2024,,Scotland
+AR4,Final,2022-07-07,Litchardon Solar Farm,ND SOLAR ENTERPRISES LTD,Solar PV (>5MW),49.90,45.990,2024,,England
+AR4,Final,2022-07-07,Bishampton Solar PV,AURA POWER SOLAR UK 6 LTD,Solar PV (>5MW),30.00,45.990,2024,,England
+AR4,Final,2022-07-07,Rag Lane Solar,RAG LANE SOLAR LIMITED,Solar PV (>5MW),42.00,45.990,2024,,England
+AR4,Final,2022-07-07,Corner Copse,JBM SOLAR PROJECTS 1 LTD,Solar PV (>5MW),49.90,45.990,2024,,England
+AR4,Final,2022-07-07,Brigstock Solar Farm,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Solar PV (>5MW),49.90,45.990,2024,,England
+AR4,Final,2022-07-07,South Fambridge Hall Solar,SOUTH FAMBRIDGE HALL SOLAR PARK LIMITED,Solar PV (>5MW),45.00,45.990,2024,,England
+AR4,Final,2022-07-07,Cornwell,CORNWELL SOLAR FARM LIMITED,Solar PV (>5MW),35.00,45.990,2024,,England
+AR4,Final,2022-07-07,Harlesford,HARLESFORD SOLAR FARM LIMITED,Solar PV (>5MW),26.65,45.990,2024,,England
+AR4,Final,2022-07-07,Bracks Farm Solar Park,BRACKS FARM SOLAR PARK LIMITED,Solar PV (>5MW),20.00,45.990,2024,,England
+AR4,Final,2022-07-07,Stokeford Solar Farm,STOKEFORD SOLAR LIMITED,Solar PV (>5MW),20.80,45.990,2024,,England
+AR4,Final,2022-07-07,Carn Nicholas Solar Farm,CARN NICHOLAS SOLAR LIMITED,Solar PV (>5MW),8.00,45.990,2024,,Wales
+AR4,Final,2022-07-07,Manor Farm Solar,INNOVA RENEWABLES (MANOR FARM) LTD,Solar PV (>5MW),18.80,45.990,2024,,England
+AR4,Final,2022-07-07,Sparrow Lodge Farm Solar PV,EEB33 LIMITED,Solar PV (>5MW),20.00,45.990,2024,,England
+AR4,Final,2022-07-07,Enso Green Holdings K Limited,ENSO GREEN HOLDINGS K LIMITED,Solar PV (>5MW),49.99,45.990,2024,,England
+AR4,Final,2022-07-07,Brackley,DROVER LANE SOLAR FARM LIMITED,Solar PV (>5MW),20.00,45.990,2024,,England
+AR4,Final,2022-07-07,Wick Farm,JBM SOLAR PROJECTS 13 LIMITED,Solar PV (>5MW),49.99,45.990,2024,,England
+AR4,Final,2022-07-07,Basildon,CROUCH SOLAR FARM LIMITED,Solar PV (>5MW),15.00,45.990,2024,,England
+AR4,Final,2022-07-07,Layer,LAYER SOLAR FARM LIMITED,Solar PV (>5MW),45.00,45.990,2024,,England
+AR4,Final,2022-07-07,St Clere’s,ST CLERE’S SOLAR FARM LIMITED,Solar PV (>5MW),15.00,45.990,2024,,England
+AR4,Final,2022-07-07,Wickham,LOW CARBON SOLAR PARK 3 LIMITED,Solar PV (>5MW),35.00,45.990,2024,,England
+AR4,Final,2022-07-07,Down Barn Farm Solar,DOWN BARN FARM SF LIMITED,Solar PV (>5MW),40.00,45.990,2024,,England
+AR4,Final,2022-07-07,Braintree,LOW CARBON SOLAR PARK 9 LIMITED,Solar PV (>5MW),26.00,45.990,2024,,England
+AR4,Final,2022-07-07,BRYN HENLLYS Solar Farm,BRYN HENLLYS SF LIMITED,Solar PV (>5MW),26.30,45.990,2024,,Wales
+AR4,Final,2022-07-07,Adstock,FOX COVERT SOLAR FARM LIMITED,Solar PV (>5MW),15.00,45.990,2024,,England
+AR4,Final,2022-07-07,Longney Estate PV,EEB18 LIMITED,Solar PV (>5MW),25.00,45.990,2024,,England
+AR4,Final,2022-07-07,Scurf Dyke Solar,SCURF DYKE SOLAR LIMITED,Solar PV (>5MW),49.90,45.990,2024,,England
+AR4,Final,2022-07-07,NEXTPOWER SPV 11 LIMITED,NEXTPOWER SPV 11 LIMITED,Solar PV (>5MW),15.00,45.990,2024,,England
+AR4,Final,2022-07-07,Claydon,JBM SOLAR PROJECTS 17 LTD,Solar PV (>5MW),45.00,45.990,2024,,England
+AR4,Final,2022-07-07,Staveley,INKERSALL SOLAR FARM LIMITED,Solar PV (>5MW),20.00,45.990,2024,,England
+AR4,Final,2022-07-07,NEXTPOWER SPV 5 LIMITED,NEXTPOWER SPV 5 LIMITED,Solar PV (>5MW),40.00,45.990,2024,,England
+AR4,Final,2022-07-07,MOSS LANE FARM SOLAR LIMITED,MOSS LANE FARM SOLAR LIMITED,Solar PV (>5MW),25.00,45.990,2024,,England
+AR4,Final,2022-07-07,Doverdale,JBM SOLAR PROJECTS 3 LTD,Solar PV (>5MW),49.90,45.990,2024,,England
+AR4,Final,2022-07-07,Milltown Airfield Solar PV,MILLTOWN AIRFIELD SOLAR PV LIMITED,Solar PV (>5MW),49.90,45.990,2024,,Scotland
+AR4,Final,2022-07-07,NEXTPOWER SPV 6 LIMITED,NEXTPOWER SPV 6 LIMITED,Solar PV (>5MW),23.00,45.990,2024,,England
+AR4,Final,2022-07-07,NEXTPOWER SPV 10 LIMITED,NEXTPOWER SPV 10 LIMITED,Solar PV (>5MW),40.00,45.990,2024,,England
+AR4,Final,2022-07-07,CLIFTON,VOLTALIA UK LTD,Solar PV (>5MW),35.00,45.990,2024,,England
+AR4,Final,2022-07-07,Oulton Solar Farm Phase 2,BLUEFIELD SIF INVESTMENTS LIMITED,Solar PV (>5MW),6.00,45.990,2024,,England
+AR4,Final,2022-07-07,Romsey Solar Farm Phase 2,BLUEFIELD SIF INVESTMENTS LIMITED,Solar PV (>5MW),6.48,45.990,2024,,England
+AR4,Final,2022-07-07,Yelvertoft Solar Farm,BLUEFIELD SIF INVESTMENTS LIMITED,Solar PV (>5MW),49.90,45.990,2024,,England
+AR4,Final,2022-07-07,Walpole Green Limited,WALPOLE GREEN LIMITED,Solar PV (>5MW),40.00,45.990,2024,,England
+AR4,Final,2022-07-07,Thorpe Bank Solar Farm,LIGHTSOURCE SPV 205 LIMITED,Solar PV (>5MW),40.00,45.990,2024,,England
+AR4,Final,2022-07-07,Cowley House Solar Farm,LIGHTSOURCE SPV 100 LIMITED,Solar PV (>5MW),40.00,45.990,2024,,England
+AR4,Final,2022-07-07,Alfreton Solar Farm,ALFRETON SOLAR LIMITED,Solar PV (>5MW),19.65,45.990,2023,,England
+AR4,Final,2022-07-07,Siddington Solar Park,SIDDINGTON SOLAR FARM LIMITED,Solar PV (>5MW),19.94,45.990,2023,,England
+AR4,Final,2022-07-07,Low Farm Solar Park,LOW FARM SOLAR LIMITED,Solar PV (>5MW),49.89,45.990,2023,,England
+AR4,Final,2022-07-07,Tycroes solar farm,SPRING DEV 02 LIMITED,Solar PV (>5MW),42.10,45.990,2024,,Wales
+AR4,Final,2022-07-07,Myttons,JBM SOLAR PROJECTS 12 LTD,Solar PV (>5MW),49.99,45.990,2024,,England
+AR4,Final,2022-07-07,North Fossil Solar Farm,SPRING DEV 03 LIMITED,Solar PV (>5MW),39.19,45.990,2024,,England
+AR4,Final,2022-07-07,Bunker’s Hill,JBM SOLAR PROJECTS 18 LTD,Solar PV (>5MW),49.90,45.990,2024,,England
+AR4,Final,2022-07-07,Inkersall Grange Solar Farm,LIGHTSOURCE SPV 152 LIMITED,Solar PV (>5MW),49.90,45.990,2024,,England
+AR4,Final,2022-07-07,Wood lane Solar Farm,EEB30 LIMITED,Solar PV (>5MW),40.00,45.990,2024,,England
+AR4,Final,2022-07-07,Driffield,HARMONY TB LTD,Solar PV (>5MW),30.00,45.990,2024,,England
+AR4,Final,2022-07-07,HIGHER STOCKBRIDGE,VOLTALIA UK LTD,Solar PV (>5MW),35.00,45.990,2024,,England
+AR4,Final,2022-07-07,Speyslaw Solar PV,EEB11 LIMITED,Solar PV (>5MW),20.00,45.990,2024,,Scotland
+AR4,Final,2022-07-07,Eastfields,JBM SOLAR PROJECTS 23 LIMITED,Solar PV (>5MW),25.00,45.990,2024,,England
+AR4,Final,2022-07-07,Cullerlie Solar PV,EEB16 LIMITED,Solar PV (>5MW),8.75,45.990,2024,,Scotland
+AR4,Final,2022-07-07,Cawarden Solar Farm,SPRING DEV 07 LIMITED,Solar PV (>5MW),47.61,45.990,2024,,England
+AR4,Final,2022-07-07,Houndbeare Farm Solar Farm,SPRING DEV 01 LIMITED,Solar PV (>5MW),14.04,45.990,2024,,England
+AR4,Final,2022-07-07,High Cayton Solar PV,EEB29 LIMITED,Solar PV (>5MW),49.99,45.990,2024,,England
+AR4,Final,2022-07-07,Tuckey Farm PV,EEB24 LIMITED,Solar PV (>5MW),25.00,45.990,2024,,England
+AR4,Final,2022-07-07,Cleve Hill Solar Project,CLEVE HILL SOLAR PARK LIMITED,Solar PV (>5MW),112.00,45.990,2023,,England
+AR4,Final,2022-07-07,Hasland Solar Farm,KS SPV 47 LIMITED,Solar PV (>5MW),49.90,45.990,2023,,England
+AR4,Final,2022-07-07,High Park Foot Solar PV,EEB17 LIMITED,Solar PV (>5MW),20.00,45.990,2024,,England
+AR4,Final,2022-07-07,Manor Farm PV,BL SOLAR 9 (MANOR FARM) LIMITED,Solar PV (>5MW),18.50,45.990,2024,,England
+AR4,Final,2022-07-07,FERRY FARM 3 NORTH,BL SOLAR 10 (FERRY FARM) LIMITED,Solar PV (>5MW),9.75,45.990,2024,,England
+AR4,Final,2022-07-07,Ranksborough Solar PV,EEB27 LIMITED,Solar PV (>5MW),30.00,45.990,2024,,England
+AR4,Final,2022-07-07,TwinHub Floating Offshore Wind Project,WAVE HUB LIMITED,Floating Offshore Wind,32.00,87.300,2026,,England
+AR4,Final,2022-07-07,Stornoway Wind Farm,STORNOWAY WIND FARM LIMITED,Remote Island Wind (RIW),200.00,46.390,2026,,Scotland
+AR4,Final,2022-07-07,Orkney Community Wind Farm Project - Hoy,Orkney Islands Council,Remote Island Wind (RIW),28.80,46.390,2026,,Scotland
+AR4,Final,2022-07-07,Orkney Community Wind Farm Project - Quanterness,Orkney Islands Council,Remote Island Wind (RIW),28.80,46.390,2026,,Scotland
+AR4,Final,2022-07-07,Mossy Hill,PEEL NRE WIND FARMS (NO. 1) LIMITED,Remote Island Wind (RIW),48.00,46.390,2026,,Scotland
+AR4,Final,2022-07-07,Beaw Field,PEEL NRE WIND FARMS (YELL) LIMITED,Remote Island Wind (RIW),72.00,46.390,2026,,Scotland
+AR4,Final,2022-07-07,Viking Wind Farm,Viking Energy Wind Farm LLP,Remote Island Wind (RIW),220.00,46.390,2026,,Scotland
+AR4,Final,2022-07-07,Orbital Marine Eday 2,ORBITAL PROJECTS 4 LIMITED,Tidal Stream,4.80,178.540,2026,,Scotland
+AR4,Final,2022-07-07,Morlais Magallanes GR3,MAGALLANES TIDAL ENERGY LTD,Tidal Stream,5.62,178.540,2025,,Wales
+AR4,Final,2022-07-07,Orbital Marine Eday 1,ORBITAL PROJECTS 3 LIMITED,Tidal Stream,2.40,178.540,2026,,Scotland
+AR4,Final,2022-07-07,MeyGen Phase 2,MeyGen PLC,Tidal Stream,28.00,178.540,2026,,Scotland
+AR4,Final,2022-07-07,Inch Cape Phase 1,INCH CAPE OFFSHORE LIMITED,Offshore Wind,1080.00,37.350,2026,,Scotland
+AR4,Final,2022-07-07,EA3 Phase 1,EAST ANGLIA THREE LIMITED,Offshore Wind,1372.34,37.350,2026,,England
+AR4,Final,2022-07-07,Norfolk Boreas (Phase 1),NORFOLK BOREAS LIMITED,Offshore Wind,1396.00,37.350,2026,,England
+AR4,Final,2022-07-07,Hornsea Project Three Offshore Wind Farm,ORSTED HORNSEA PROJECT THREE (UK) LIMITED,Offshore Wind,2852.00,37.350,2026,,England
+AR4,Final,2022-07-07,Moray West Offshore Wind Farm,MORAY OFFSHORE WINDFARM (WEST) LIMITED,Offshore Wind,294.00,37.350,2026,,Scotland
